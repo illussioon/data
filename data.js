@@ -21,7 +21,7 @@
     "videos": [, {
         "episode": 1,
         "fhd": null,
-        "hd": "https://raw.githubusercontent.com/illussioon/view/main/51a31bb5/playlist_24.m3u8",
+        "hd": "https://raw.githubusercontent.com/illussioon/view/main/d8d783b9/playlist_24.m3u8",
         "sd": null,
         "alternative_player_url": null
     }]
