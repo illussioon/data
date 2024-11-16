@@ -18,12 +18,14 @@
     "anime_genres": ["Экшен", "Комедия"],
     "poster_original": "https://example.com/poster.jpg",
     "player_url": "https://example.com/player",
-    "videos": [, {
+    "videos": [
+     {
         "episode": 1,
         "fhd": null,
         "hd": "https://raw.githubusercontent.com/illussioon/view/main/d8d783b9/playlist_24.m3u8",
         "sd": null,
         "alternative_player_url": null
-    }]
+    }
+    ]
   }
 ]
