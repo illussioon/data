@@ -22,7 +22,7 @@
       {
         "episode": 1,
         "fhd": null,
-        "hd": "https://raw.githubusercontent.com/illussioon/view/main/705c69d9/new.m3u8",
+        "hd": "https://raw.githubusercontent.com/illussioon/view/main/dde19cd5/episode24/playlist_24.m3u8",
         "sd": null,
         "alternative_player_url": null
       }
