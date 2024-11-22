@@ -12,7 +12,7 @@
       {
         "episode": 1,
         "fhd": null,
-        "hd": "https://files.catbox.moe/3yq4h7.mp4",
+        "hd": "https://ia803207.us.archive.org/35/items/episode1_202411/episode1.mp4",
         "sd": null,
         "alternative_player_url": null
       }
