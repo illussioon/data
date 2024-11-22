@@ -12,7 +12,7 @@
       {
         "episode": 1,
         "fhd": null,
-        "hd": "https://download1479.mediafire.com/zqitxu60axigfRgdDaU8xkB4iNaHJPbc0B6FUl9VlL7meWpY5aUE3f-ABkOBVs3cZHRzstGbvAw9OO_hJQA_U2s-Wp02deNvJxHXA9T8oK-iJWetwp0qvJ5dc3Zlt0AwKAtLheicGyxi0o8QJNKC7kDz7KzEFw38b7dDj6xtHw-Z6g/2j512fzwik486ce/episode1.mp4",
+        "hd": "https://files.catbox.moe/3yq4h7.mp4",
         "sd": null,
         "alternative_player_url": null
       }
