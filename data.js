@@ -267,7 +267,7 @@
         "hd": "https://cdn.illussion.fun/videos/X9wHErn5eoRNclZaIJSufoiZZRmZS2/episode37.mp4",
         "sd": null,
         "alternative_player_url": null
-      },
+      }
     ]
   }
 ]
